@@ -1,0 +1,2 @@
+1. Copy temp folder to "C" drive. 
+2. Note it should be "C" drive else there will be errors.
